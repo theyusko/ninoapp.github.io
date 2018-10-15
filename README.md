@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+## Nino is not OCR
+Note taking amounts to an important part of studying materials for many students, be
+they grade school or graduate students. In many cases, there are no lecture notes or slides
+readily available, or the ones that are available do not cover all of the lecture content. This
+requires students to take notes during the lecture.
 
-You can use the [editor on GitHub](https://github.com/NinoApp/ninoapp.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+However, in some cases, the student has to note down the words fast without truly
+processing their content, or write down equations without having the time to analyze and
+thus understand them. In the case of writing down sentences, one can achieve faster note
+taking with tablets/computers [1] but when the lecture notes consist of plots, graphs or
+mathematical equations, our market research shows that there is no hardware/software
+help to achieve faster note taking than writing it down [2].
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In some cases, scribing all the things written on the board (even without making sense
+of it) proves to be quite hard, therefore many note taking strategies have arisen [3]. Many
+of these strategies revolve around the rule that one first takes notes of keywords, and
+then rewrites the notes after class [3]. However, there are two possible problems with this
+strategy: the student might forget the information conveyed via that particular keyword,
+or might miss important information and not write a keyword about it.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Reports
+* [Project Specifications](./Project Specifications.pdf).
 
-```markdown
-Syntax highlighted code block
+### Team Members
+* Ata Deniz Aydın
+* Batuhan Kaynak
+* Ecem İlgün
+* Selim Fırat Yılmaz
 
-# Header 1
-## Header 2
-### Header 3
+### Supervisor
+* [Hamdi Dibeklioğlu](http://www.cs.bilkent.edu.tr/~dibeklioglu/)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NinoApp/ninoapp.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Jury Members
+* [Ercüment Çiçek](http://ciceklab.cs.bilkent.edu.tr/ercumentcicek/)
+* [Özcan Öztürk](http://www.cs.bilkent.edu.tr/~ozturk/)
